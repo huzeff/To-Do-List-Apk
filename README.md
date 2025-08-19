@@ -21,7 +21,7 @@ Built using **HTML, CSS, and JavaScript**, this app allows users to add, mark as
 ---
 
 ## 📸 Screenshot
-![App Screenshot](images/Screenshot 2025-08-18 234328.png)
+![App Screenshot](https://github.com/user-attachments/assets/b82ac24d-2f26-496c-b4c1-22eefc6b7579)
 
 ---
 
